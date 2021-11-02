@@ -118,7 +118,7 @@
 <nav>
   <ul>
     
-    <li class="logo"><a href="admin/login.php">Syaliba Hotel</a></li>
+    <li class="logo">Syaliba Hotel</li>
     <li class="items"><a href="home.php">Home</a></li>
     <li class="items"><a href="index.php">List Kamar</a></li>
     <?php
